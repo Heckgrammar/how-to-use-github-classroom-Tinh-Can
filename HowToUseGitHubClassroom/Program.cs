@@ -1,4 +1,4 @@
-﻿namespace HowToUseGitHubClassroom
+namespace HowToUseGitHubClassroom
 {
     internal class Program
     {
